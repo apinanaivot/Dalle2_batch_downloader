@@ -1,2 +1,4 @@
 # Dalle2_batch_downloader
-Dall-E 2 Batch Downloader
+Tampermonkey script that will download all images from the history in https://labs.openai.com/history
+
+
