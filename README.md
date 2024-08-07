@@ -73,6 +73,6 @@ This script is for personal use only. Ensure you comply with OpenAI's terms of s
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-##Credits
+## Credits
 
 The whole script and all text on this readme are written by Claude 3.5 Sonnet
