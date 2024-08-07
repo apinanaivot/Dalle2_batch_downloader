@@ -8,7 +8,6 @@ This Tampermonkey script allows you to batch download your personal DALL-E 2 gen
 - Resume functionality to continue downloads from where you left off
 - Manual index setting to start downloads from a specific image
 - Display of image indices in the gallery for easy reference
-- Automatic scrolling to load all images
 - Configurable delay between downloads to avoid overwhelming the server
 
 ## Installation
@@ -19,7 +18,7 @@ This Tampermonkey script allows you to batch download your personal DALL-E 2 gen
 
 ## Usage
 
-1. Navigate to your DALL-E 2 gallery page on the OpenAI labs website.
+1. Navigate to your DALL-E 2 gallery page on the OpenAI labs website. Make sure to load all images on the page by scrolling all the way to the bottom.
 2. You'll see new buttons and an input field in the top-right corner of the page:
    - **Start Download**: Begins downloading from the start of your gallery
    - **Stop Download**: Pauses the download process
