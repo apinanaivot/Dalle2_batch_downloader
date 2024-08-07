@@ -71,7 +71,7 @@
                 await downloadImage(img.src, filename);
                 lastProcessedIndex = i;
                 GM_setValue('lastProcessedIndex', lastProcessedIndex);
-                await sleep(1000); // 1 second delay between downloads
+                await sleep(100); // 0.1 second delay between downloads
             }
         }
     }
