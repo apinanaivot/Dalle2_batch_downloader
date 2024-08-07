@@ -22,7 +22,7 @@ This Tampermonkey script allows you to batch download your personal DALL-E 2 gen
 2. You'll see new buttons and an input field in the top-right corner of the page:
    - **Start Download**: Begins downloading from the start of your gallery
    - **Stop Download**: Pauses the download process
-   - **Resume Download**: Continues downloading from where you left off
+   - **Resume Download**: Continues downloading from where you left off (or where you manually set the index at)
    - **Reset Progress**: Clears saved progress
    - **Set Index** (with input field): Allows you to set a specific starting point
 3. Each image in the gallery will now display its index number in the bottom-left corner.
