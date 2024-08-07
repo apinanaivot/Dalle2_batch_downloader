@@ -35,7 +35,7 @@ To ensure smooth operation and avoid constant download prompts, you need to conf
 ### Chrome
 
 1. Go to Settings > Advanced > Downloads
-2. Toggle ON "Ask where to save each file before downloading"
+2. Toggle off "Ask where to save each file before downloading"
 3. Set your preferred download location
 
 ### Firefox
